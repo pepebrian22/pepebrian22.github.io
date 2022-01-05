@@ -1,0 +1,24 @@
+body{
+	text-align: center;
+	background-color: lightpink;
+	color: white;
+	font-family: 'dancing script' cursive;
+}
+img{
+	max-width: 100%;
+	height: auto;
+
+}
+button{
+	border-radius:20px ;
+	width: 80px;
+	height: 50px;
+	color: white;
+	background-color: skyblue;
+}
+button:hover{
+	background: aquamarine;
+}
+button:style button{
+	color: black;
+}
